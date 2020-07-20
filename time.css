@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#clock{
+  text-align: center;
+  position: relative;
+  top: 50%;
+  font-family: 'Merriweather', serif;
+  font-size: 60px;
+  -webkit-text-stroke:1px white;
+  margin-top: -25px;
+}
+
+html, body {
+  height: 100%;
+}
